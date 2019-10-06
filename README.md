@@ -1,3 +1,11 @@
+# Note
+This is a fork of [pinch_zoom_image](https://pub.dev/packages/pinch_zoom_image)
+## Changes
+- Migrate to AndroidX
+- Upgrade to latest gradle
+- Upgrade Kotlin
+
+
 # Pinch Zoom Image
 
 A widget that makes picture pinch zoom, Instagram style!
