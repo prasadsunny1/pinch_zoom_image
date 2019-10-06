@@ -1,5 +1,7 @@
 # Note
 This is a fork of [pinch_zoom_image](https://pub.dev/packages/pinch_zoom_image)
+
+The original plugin is unmaintained for over a year but we love this package
 ## Changes
 - Migrate to AndroidX
 - Upgrade to latest gradle
