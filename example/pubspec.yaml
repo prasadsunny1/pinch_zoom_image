@@ -14,7 +14,7 @@ dev_dependencies:
     sdk: flutter
   pinch_zoom_image:
     path: ../
-  cached_network_image: ^0.5.0
+  cached_network_image: ^1.1.1
 
 flutter:
   uses-material-design: true
